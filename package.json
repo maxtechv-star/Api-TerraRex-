@@ -1,5 +1,5 @@
 {
-  "name": "yt-audio-api",
+  "name": "TerraRexApi", 
   "version": "1.0.0",
   "description": "API.",
   "main": "server.js",
