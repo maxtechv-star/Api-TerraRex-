@@ -2,9 +2,9 @@
   "name": "TerraRexApi", 
   "version": "1.0.0",
   "description": "API.",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "author": "Félix ofc",
   "license": "MIT",
